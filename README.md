@@ -9,7 +9,7 @@ A Fullstack Developer passionate about building end-to-end digital experiences �
 - 🌱 I’m currently pursuing **Masters in Data Analytics Engineering at Northeastern University, Boston**
 -->
 - :bulb: I'm interested in all things data: **Web Development, System Design, DevOps, and Modern JS Frameworks**
-- 💬 Talk to me about Memes, Anime, Movies 🎥, Clash Royale 🎮, Amateur Photography 📸
+- 💬 Talk to me about Memes, Anime, Movies 🎥, Clash Royale 🎮, Amateur Photography 📸 , Gym 💪
 
 ## 🚀 My Tech Stack
 
