@@ -4,17 +4,16 @@
 
 ### Hi there 👋 I'm Sanogo Ramadane,
 
-A Fullstack Developer passionate about building end-to-end digital experiences :computer:. I love creating scalable applications, designing clean architectures, and optimizing systems for performance. I'm a strong advocate for building clean, maintainable code, embracing modern development practices, continuous learning, and creating solutions that scale.
-
+A Fullstack Developer passionate about building end-to-end digital experiences 💻. I love creating scalable applications 🚀, designing clean architectures 🧩, and optimizing systems for high performance ⚡. I'm a strong advocate for writing clean, maintainable code ✨, embracing modern development practices 🛠️, continuous learning 📚, and creating solutions that scale effortlessly 📈.
 <!--
 - 🌱 I’m currently pursuing **Masters in Data Analytics Engineering at Northeastern University, Boston**
 -->
 - :bulb: I'm interested in all things data: **Web Development, System Design, DevOps, and Modern JS Frameworks**
-- 💬 Talk to me about Formula 1 :racing_car:, Memes, Anime, Movies 🎥, Genshin Impact 🎮, Amateur Photography 📸
+- 💬 Talk to me about Memes, Anime, Movies 🎥, Clash Royale 🎮, Amateur Photography 📸
 
 ## 🚀 My Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,php,nodejs,nestjs,laravel,react,nextjs,sass,tailwind,git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,php,nodejs,nestjs,express,elysia,laravel,react,nextjs,sass,tailwind,git,docker)](https://skillicons.dev)
 <!--
 **Thomas-George-T/Thomas-George-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 T
